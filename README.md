@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/mvc.png" alt="MVC-Title Image" title=" MVC logo image" width="100%" height="260"/>
+  <img src="images/mvc.png" alt="MVC-Title Image" title=" MVC logo image" width="100%" height="460"/>
 </p>
 
 
